@@ -24,7 +24,6 @@ class Test:
     train_csv = 'train.csv'
     val_csv = 'val.csv'
     test_csv = 'test_data.csv'
-#     test_csv = 'val.csv'
     task1_prediction = 'task1_prediction.csv'
     task2_prediction = 'task2_prediction.csv'
 
